@@ -1,4 +1,6 @@
 # bootstrap-confirmation v1.0.1
+This is a fork of Tavicu's [code](https://github.com/tavicu/bs-confirmation). All I did was add a package.json file so I could use npm with it. The following is from his original README.md.
+---
 
 This is a fork of ethaizone's [original code](https://github.com/ethaizone/Bootstrap-Confirmation)
 

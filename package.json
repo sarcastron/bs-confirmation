@@ -1,0 +1,21 @@
+{
+  "name": "bs-confirmation",
+  "version": "1.0.1",
+  "description": "Confirmation plugin compatible with Twitter Bootstrap 3 extending Popover",
+  "main": "bootstrap-confirmation.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarcastron/bs-confirmation.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "confirm",
+    "confirmation"
+  ],
+  "author": "Tavicu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarcastron/bs-confirmation/issues"
+  },
+  "homepage": "https://github.com/sarcastron/bs-confirmation"
+}
